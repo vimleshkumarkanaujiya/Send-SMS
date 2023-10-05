@@ -26,3 +26,15 @@ cd build
 ```
 sudo make install
 ```
+# Another Way to RUN
+
+Copy the contents of "build.sh" file.
+
+Save as build.sh.
+
+### Make it executable
+```
+chmod +x build.sh
+```
+### RUN :
+./build.sh
