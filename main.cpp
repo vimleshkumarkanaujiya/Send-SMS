@@ -2,10 +2,10 @@
 #include <string>
 #include <curl/curl.h>
 
-const std::string TWILIO_ACCOUNT_SID = "ACadd67858c29e348e0bbd464213c569b0";
-const std::string TWILIO_AUTH_TOKEN = "3f61f347d6832696550c200f28540f9f";
-const std::string TWILIO_PHONE_NUMBER = "+15736794954";
-const std::string SMS_RECIPIENT_NUMBER = "+916386205855";
+const std::string TWILIO_ACCOUNT_SID = "";
+const std::string TWILIO_AUTH_TOKEN = "";
+const std::string TWILIO_PHONE_NUMBER = "";
+const std::string SMS_RECIPIENT_NUMBER = "";
 
 std::string urlencode(const std::string &s) {
   static const char *hex = "0123456789ABCDEF";
